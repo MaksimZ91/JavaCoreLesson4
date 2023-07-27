@@ -3,11 +3,8 @@ package org.example;
 import org.example.Exeptions.AmountException;
 import org.example.Exeptions.CustomerException;
 import org.example.Exeptions.ProductException;
-
-import java.util.Arrays;
-import java.util.Objects;
 import java.util.Random;
-import java.util.stream.IntStream;
+
 
 public class Main {
     private static final int buyersSize = 2;
